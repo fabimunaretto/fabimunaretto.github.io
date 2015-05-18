@@ -1,0 +1,305 @@
+/*------------------------------------------------------
+
+grid.css file overview: 
+
+  1. GRID
+  2. MEDIA QUERIES
+---------------------------------------------------------*/
+
+/* -----------------------------------------
+   1. GRID
+----------------------------------------- */
+.container {
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.row {
+width: 100%;
+max-width: 1140px;
+min-width: 755px;
+margin: 0 auto;
+overflow: hidden;
+}
+.content-wrapper {
+	padding: 95px 0 0 0;
+	margin-bottom: 350px;
+}
+.content-wrapper.last-wrapper{
+	margin-bottom: 0;
+}
+
+.onecol, .twocol, .threecol, .fourcol, .fivecol, .sixcol, .sevencol, .eightcol, .ninecol, .tencol, .elevencol {
+margin-right: 3.8%;
+float: left;
+min-height: 1px;
+}
+
+.row .onecol {
+width: 4.85%;
+}
+
+.row .twocol {
+width: 13.45%;
+}
+
+.row .threecol {
+width: 22.05%;
+}
+
+.row .fourcol {
+width: 30.75%;
+}
+
+.row .fivecol {
+width: 39.45%;
+}
+
+.row .sixcol {
+width: 48%;
+}
+
+.row .sevencol {
+width: 56.75%;
+}
+
+.row .eightcol {
+width: 65.4%;
+}
+
+.row .ninecol {
+width: 74.05%;
+}
+
+.row .tencol {
+width: 82.7%;
+}
+
+.row .elevencol {
+width: 91.35%;
+}
+
+.row .twelvecol {
+width: 100%;
+float: left;
+}
+
+.last {
+margin-right: 0px;
+}
+
+img, object, embed {
+max-width: 100%;
+}
+
+img {
+	height: auto;
+}
+
+.row .centered{
+	margin: 0 auto;
+	float: none;
+	clear: both;
+}
+
+/* -----------------------------------------
+   2. MEDIA QUERIES
+----------------------------------------- */
+
+/* Mobile */
+@media handheld, only screen and (max-width: 767px) {
+	body {
+	font-size: 16px;
+	-webkit-text-size-adjust: none;
+	}
+	
+	.row, body, .container {
+	width: 100%;
+	min-width: 0;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
+	
+	.row .onecol, .row .twocol, .row .threecol, .row .fourcol, .row .fivecol, .row .sixcol, .row .sevencol, .row .eightcol, .row .ninecol, .row .tencol, .row .elevencol, .row .twelvecol {
+	width: auto;
+	float: none;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-bottom: 35px;
+	}
+	.name-box p.subline{
+		width: 80%;
+	}
+	.hr {
+		margin: 20px auto 35px;
+	}
+	.hero-image-parent{
+		width: 300px;
+		height: 200px;
+	}
+	.hero-image-holder{
+ 		width: 280px;
+    		height: 150px;   
+    		margin: 25px auto;
+	}
+	.hero-image.hero_animate{
+ 		width: 280px;
+    		height: 150px;   
+    		margin: -75px 0 0 -140px;
+	}
+	.pos_1{
+		left: 5px;
+	}
+	.pos_2,
+	.pos_3{
+		top: 265px;
+	}
+	.pos_4{
+		right: 5px;
+	}
+	.main_nav li{
+		display: inline-block;
+		width: 150px;
+		margin: 0 -2px 10px;
+	}
+	.main_nav li a:hover{
+		padding: 11px 15px 10px;
+	}
+	.image_rounded{
+		float: none;
+		clear: both;
+	}
+
+	a.soc_link {
+	  clear: both;
+	  text-align: center;
+	  display: block;
+	  padding: 15px;
+	}
+	.knob_box{
+	  margin: 0 auto;
+	  display: none !important;
+	  height: 120px !important;
+	  width: 100% !important;
+	}
+	.knob_box canvas{
+	  width:260px !important;
+	}
+	.knob_box input{
+	  display: none !important;
+	}
+	.submit_button{
+	  float: none;
+	  margin: 10px 0 !important;
+	  width: 100%;
+	}
+	#contact_form .captcha_input{
+	  width:142px !important;
+	}
+	.button{
+	  margin:5px;
+	}
+	.separator.special .inside{
+	  margin-top: -24px !important;
+	}
+	#main .content-wrapper {
+	  padding: 165px 0 0 0;
+	}
+	#contact_form .button{
+	  margin: 20px auto;
+	  float: none;
+	  display: block;
+	}
+	#contact_form .captcha_input{
+	  margin:20px 0 20px 10px !important;
+	}
+	.timeline_unit {
+	   width: 90%;
+	}
+	.timeline_unit .icon,
+	.timeline_unit .arrow{
+		display: none;
+	}
+	.timeline_unit.left,
+	.timeline_unit.right {
+	   float: left;
+	   margin: 25px 20px;
+	   clear: both;
+	}
+	.timeline_img{
+		width: 100%;
+	}
+	.timeline_unit .image_rounded{
+		float: left;
+	}
+}
+/* iPad Portrait Only */
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+	a.soc_link {
+	  clear: both;
+	  text-align: center;
+	  display: block;
+	  padding: 15px;
+	}
+	#skills div.six{
+	  width:98%;
+	}
+	#skills div.bor{
+	  border-right: none;
+	}
+	.knob_box{
+	  margin:0 auto;
+	  display:block !important;
+	}
+	.button{
+	  margin:5px;
+	}
+	.separator.special .inside{
+	  margin-top: -15px !important;
+	}  
+	#contact_form .button{
+		float: right;
+		margin:0;
+		display: inline-block;
+	}
+	.timeline_unit {
+	   width: 90%;
+	}
+	.timeline_unit.left,
+	.timeline_unit.right {
+	   float: left;
+	   margin: 25px 20px;
+	   clear: both;
+	}
+	.timeline_img{
+		width: 100%;
+	}
+}
+@media screen and (min-width:751px) and (max-width:1279px) { 
+
+.timeline_unit.left{
+    float: left;
+    margin: 0 0 55px 20px;
+  }
+.timeline_unit.right {
+    float: right;
+    margin: 0 20px 55px 0;
+  }
+  .timeline_unit {
+    width: 40%;
+  }
+  .timeline_unit.left{
+    float: left;
+  }
+
+  .timeline_unit.left .icon{
+    right:-27.5%;
+  }
+  .timeline_unit.right .icon{
+    left:-27.5%;
+  }
+}

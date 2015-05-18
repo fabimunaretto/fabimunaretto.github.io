@@ -1,0 +1,115 @@
+/*------------------------------------------------------
+	ELEMENTS COLOR
+---------------------------------------------------------*/
+.awsm-info{
+	background: rgba(83, 83, 83, 0.8);
+}
+.skill_set,
+.personal_skills li span{
+	background: #535353;
+}
+.submit_button{
+	background: #535353;
+}
+a,
+a:hover,
+a:focus {
+  color: #535353;
+}
+#portfolio_filter li.current a,
+#portfolio_filter li a:hover{
+	color: #535353;
+	border-bottom: 3px solid #535353;
+}
+.awsm-info p a,
+.awsm-info p a:hover{
+	color: #000;
+}
+.main_nav li a:hover,
+.link-active{
+	background: rgba(0, 0, 0, 1);
+	color:#FFF;
+
+	-webkit-box-shadow: 0 -5px 0px rgba(255, 255, 255, 0.3) inset, 0 2px 0 rgba(255, 255, 255, 0.2) inset;
+	box-shadow: 0 -5px 0px rgba(255, 255, 255, 0.3) inset, 0 2px 0 rgba(255, 255, 255, 0.2) inset;
+}
+.button{
+	background: rgba(0, 0, 0, 1);
+	color:#FFF;
+}
+.button:hover{
+	box-shadow: inset 0 0 0px 0.3em rgba(255, 255, 255, 0.5);
+	color:#FFF;
+}
+
+.awsm-info a:hover {
+	box-shadow: inset 0 0 0 0.3em rgba(0, 0, 0, 0.5);
+}
+.personal_skills li span:before{
+	border-color: transparent #535353 transparent;
+}
+.lt-ie8 .awsm-info,
+.lt-ie8 .submit_button,
+.lt-ie8 .skill_set,
+.lt-ie8 .button,
+.lt-ie8 .main_nav li a:hover,
+.lt-ie8 .link-active{
+	background: #535353;
+	color:#FFF;
+}
+.lt-ie8 .button:hover{
+	color:#FFF;
+}
+
+
+
+/*------------------------------------------------------
+	SOCIAL ICONS
+---------------------------------------------------------*/
+
+.twitter{
+	background: url('../../images/icons/black/twitter.png') no-repeat center top;
+}
+.dribbble{
+	background: url('../../images/icons/black/dribbble.png') no-repeat center top;
+}
+.facebook{
+	background: url('../../images/icons/black/facebook.png') no-repeat center top;
+}
+.gplus{
+	background: url('../../images/icons/black/google.png') no-repeat center top;
+}
+.linkedin{
+	background: url('../../images/icons/black/linkedin.png') no-repeat center top;
+}
+.skype{
+	background: url('../../images/icons/black/skype.png') no-repeat center top;
+}
+.vimeo{
+	background: url('../../images/icons/black/vimeo.png') no-repeat center top;
+}
+.youtube{
+	background: url('../../images/icons/black/youtube.png') no-repeat center top;
+}
+.zerply{
+	background: url('../../images/icons/black/zerply.png') no-repeat center top;
+}
+
+/*------------------------------------------------------
+	SOCIAL ICONS HERO IMAGE
+	just navigate from icons list above and choose your icons
+---------------------------------------------------------*/
+
+.pos_1{
+	background-image: url('../../images/icons/black/twitter.png');
+}
+.pos_2{
+	background-image: url('../../images/icons/black/facebook.png');
+}
+.pos_3{
+	background-image: url('../../images/icons/black/dribbble.png');
+}
+.pos_4{
+	background-image: url('../../images/icons/black/google.png');
+}
+

@@ -1,0 +1,704 @@
+{
+    "projetos": [
+        {
+            "titulo": "Casa da Assunta e do Aldenor",
+            "descricao": "Projeto de edificação residencial em Renascença / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/RESIDÊNCIA ASSUNTA E ALDENOR/",
+            "imagens": [
+                {
+                    "src": "MAQUETE-1.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-2.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-3.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-4.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "PLANTA BAIXA-1.png",
+                    "legenda": "Planta Baixa"
+                },                
+                {
+                    "src": "CROQUI-1.jpg",
+                    "legenda": "Croqui"
+                },
+                {
+                    "src": "CROQUI-2.jpg",
+                    "legenda": "Croqui"
+                }
+            ]
+        },
+        {
+            "titulo": "Atelier de doces finos",
+            "descricao": "Projeto de atelier de doces finos em Pato Branco / PR",
+            "tipo": "proj-outros",
+            "pasta": "images/projetos/ATELIER DE DOCES FINOS/",
+            "imagens": [
+                {
+                    "src": "CROQUI 1.jpg",
+                    "legenda": "Croqui"
+                },
+                {
+                    "src": "CROQUI 2.jpg",
+                    "legenda": "Croqui"
+                },
+                {
+                    "src": "CROQUI 3.jpg",
+                    "legenda": "Croqui"
+                }                
+            ]
+        },
+        {
+            "titulo": "Jazigo capela",
+            "descricao": "Projeto de jazigo capela em Bom Sucesso do Sul / PR",
+            "tipo": "proj-outros",
+            "pasta": "images/projetos/JAZIGO CAPELA/",
+            "imagens": [
+                {
+                    "src": "01.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "02.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "03.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "04.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "CROQUI.jpg",
+                    "legenda": "Croqui"
+                }
+            ]
+        },
+        {
+            "titulo": "Casa da Karina",
+            "descricao": "Projeto de paisagismo externo em Pato Branco / PR",
+            "tipo": "proj-paisagismo",
+            "pasta": "images/projetos/PAISAGISMO EXTERNO RESIDÊNCIA KARINA/",
+            "imagens": [
+                {
+                    "src": "CROQUI.jpg",
+                    "legenda": "Croqui"
+                },
+                {
+                    "src": "CROQUI 2.jpg",
+                    "legenda": "Croqui"
+                }
+            ]
+        },
+        {
+            "titulo": "Casa da Mônica e do Osvaldo",
+            "descricao": "Projeto de paisagismo externo em Pato Branco / PR",
+            "tipo": "proj-paisagismo",
+            "pasta": "images/projetos/PAISAGISMO EXTERNO RESIDêNCIA MÔNICA E OSVALDO/",
+            "imagens": [
+                {
+                    "src": "PLANTA BAIXA-1.png",
+                    "legenda": "Planta Baixa"
+                }
+            ]
+        },
+        {
+            "titulo": "Templo Religioso",
+            "descricao": "Projeto de reforma de templo religioso em Pato Branco / PR",
+            "tipo": "proj-outros",
+            "pasta": "images/projetos/REFORMA DE TEMPLO RELIGIOSO/",
+            "imagens": [
+                {
+                    "src": "03.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "02.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "05.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "20.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "27.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "01 - CROQUI.jpg",
+                    "legenda": "Croqui"
+                },
+                {
+                    "src": "11.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "13.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "14.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "16.jpg",
+                    "legenda": "Maquete"
+                }
+            ]
+        },
+        {
+            "titulo": "Casa da Carol e do Ivan",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/RESIDÊNCIA CAROL E IVAN/",
+            "imagens": [
+                {
+                    "src": "MAQUETE-1.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-2.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-3.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-4.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-5.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "PLANTA BAIXA-1.png",
+                    "legenda": "Planta Baixa"
+                },
+                {
+                    "src": "CROQUI.jpg",
+                    "legenda": "Croqui"
+                }
+            ]
+        },
+        {
+            "titulo": "Casa da Eliane e do Rômulo",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/RESIDÊNCIA ELIANE E RÔMULO/",
+            "imagens": [
+                {
+                    "src": "MAQUETE-4.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-1.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-2.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-3.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "PLANTA BAIXA TÉRREO-1.png",
+                    "legenda": "Planta Baixa"
+                },
+                {
+                    "src": "CROQUI.jpg",
+                    "legenda": "Croqui"
+                }
+            ]
+        },
+        {
+            "titulo": "Casa da Gilce e do Adelar",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/RESIDÊNCIA GILCE E ADELAR/",
+            "imagens": [
+                {
+                    "src": "01.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "02.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "03.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "04.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "05.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "PLANTA BAIXA TÉRREO-1.png",
+                    "legenda": "Planta Baixa"
+                },                
+                {
+                    "src": "FACHADA PRINCIPAL.jpg",
+                    "legenda": "Fachada Principal"
+                }
+            ]
+        },
+        {
+            "titulo": "Casa da Márcia e do Rodrigo",
+            "descricao": "Projeto de edificação residencial em Pato Branco / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/RESIDÊNCIA MÁRCIA E RODRIGO/",
+            "imagens": [
+                {
+                    "src": "MAQUETE-1.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-3.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-4.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-5.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-6.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "PLANTA BAIXA TÉRREO-1.png",
+                    "legenda": "Planta Baixa"
+                },
+                {
+                    "src": "PLANTA BAIXA PVTO SUPERIOR-1.png",
+                    "legenda": "Planta Baixa"
+                },
+                {
+                    "src": "CROQUI-1.jpg",
+                    "legenda": "Croqui"
+                },
+                {
+                    "src": "CROQUI-2.jpg",
+                    "legenda": "Croqui"
+                }
+            ]
+        },
+        {
+            "titulo": "Casa da Marizete e do Amilton",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/RESIDÊNCIA MARIZETE E AMILTON/",
+            "imagens": [
+                {
+                    "src": "MAQUETE-2.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-1.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-3.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-4.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-5.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-6.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "PLANTA BAIXA TÉRREO-1.png",
+                    "legenda": "Planta Baixa"
+                },
+                {
+                    "src": "CROQUI.jpg",
+                    "legenda": "Croqui"
+                }
+            ]
+        },
+        {
+            "titulo": "Casa da Veracy e do Nereu",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/RESIDÊNCIA VERACY E NEREU/",
+            "imagens": [
+                {
+                    "src": "MAQUETE-6.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-1.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-2.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-3.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "MAQUETE-4.jpg",
+                    "legenda": "Maquete"
+                },
+                {
+                    "src": "PLANTA BAIXA TÉRREO-1.png",
+                    "legenda": "Planta Baixa"
+                },
+                {
+                    "src": "CROQUI 1.jpg",
+                    "legenda": "Croqui"
+                }
+            ]
+        },
+        {
+            "titulo": "Sobrado da Lenize e do Augusto",
+            "descricao": "Projeto de interiores residencial em Curitiba / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/Sobrado Lenize Augusto/",
+            "imagens": [
+                {
+                    "src": "DSC_0296.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0297.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0298.jpg",
+                    "legenda": "Foto"
+                },                
+                {
+                    "src": "DSC_0300.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0301.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0303.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0306.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0308.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0312.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0313.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0314.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0317.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0318.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0319.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0320.jpg",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "DSC_0322.jpg",
+                    "legenda": "Foto"
+                }
+            ]
+        },
+        {
+            "titulo": "Salão de Festas da Adri e do Rafael",
+            "descricao": "Projeto de paisagismo externo em Pato Branco / PR",
+            "tipo": "proj-paisagismo",
+            "pasta": "images/projetos/Salao de Festas da Adri e do Rafael/",
+            "imagens": [
+                {
+                    "src": "Croqui.jpg",
+                    "legenda": "Croqui"
+                },
+                {
+                    "src": "planta-baixa.png",
+                    "legenda": "Planta Baixa"
+                }
+            ]
+        },
+        {
+            "titulo": "Casa da Simone e do Futica",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/Casa Simone Futica Edificacao/",
+            "imagens": [
+                {
+                    "src": "IMG_3965.JPG",
+                    "legenda": "Foto"
+                },            
+                {
+                    "src": "IMG_3825.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3827.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3832.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3838.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3842.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3843.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3845.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3952.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3956.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3962.JPG",
+                    "legenda": "Foto"
+                }
+            ]
+        },
+        {
+            "titulo": "Casa da Simone e do Futica",
+            "descricao": "Projeto de interiores residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/Casa Simone Futica Interiores/",
+            "imagens": [
+                {
+                    "src": "IMG_3848.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3850.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3856.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3862.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3866.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3872.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3874.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3879.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3895.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3900.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3903.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3905.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3911.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3917.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3918.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3920.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3926.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3928.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3931.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3932.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3935.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3943.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3944.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3947.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3951.JPG",
+                    "legenda": "Foto"
+                }
+            ]
+        },
+        {
+            "titulo": "Apartamento da Franci e do Dudu",
+            "descricao": "Projeto de interiores residencial em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/Apartamento Franci e Dudu/",
+            "imagens": [
+                {
+                    "src": "IMG_3971.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3975.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3986.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3990.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3998.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_4002.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_4005.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_4009.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_4010.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_4013.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_4018.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_4022.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_4026.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_4028.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_4031.JPG",
+                    "legenda": "Foto"
+                }                
+            ]
+        }
+    ]
+}
