@@ -1274,3 +1274,13 @@ p.quote{
 .hdn-img {
 	display: none;
 }
+
+.contact_info .fa {
+	color: #3E93AF;
+	margin-right: 5px;
+	vertical-align: -5%;
+}
+
+.contact_info a {
+	color: black
+}
