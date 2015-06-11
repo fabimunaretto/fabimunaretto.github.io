@@ -57,6 +57,58 @@
             ]
         },
         {
+            "titulo": "Casa da Simone e do Futica",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/Casa Simone Futica Edificacao/",
+            "imagens": [
+                {
+                    "src": "IMG_3965.JPG",
+                    "legenda": "Foto"
+                },            
+                {
+                    "src": "IMG_3825.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3827.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3832.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3838.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3842.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3843.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3845.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3952.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3956.JPG",
+                    "legenda": "Foto"
+                },
+                {
+                    "src": "IMG_3962.JPG",
+                    "legenda": "Foto"
+                }
+            ]
+        },
+        {
             "titulo": "Jazigo capela",
             "descricao": "Projeto de jazigo capela em Bom Sucesso do Sul / PR",
             "tipo": "proj-outros",
@@ -473,54 +525,38 @@
             ]
         },
         {
-            "titulo": "Casa da Simone e do Futica",
-            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "titulo": "Casa da Nilzete e do Pedro",
+            "descricao": "Projeto de edificação residencial em Pato Branco / PR",
             "tipo": "proj-residenciais",
-            "pasta": "images/projetos/Casa Simone Futica Edificacao/",
+            "pasta": "images/projetos/Casa da Nilzete e do Pedro/",
             "imagens": [
                 {
-                    "src": "IMG_3965.JPG",
-                    "legenda": "Foto"
-                },            
-                {
-                    "src": "IMG_3825.JPG",
-                    "legenda": "Foto"
+                    "src": "1.jpg",
+                    "legenda": "Maquete"
                 },
                 {
-                    "src": "IMG_3827.JPG",
-                    "legenda": "Foto"
+                    "src": "2.jpg",
+                    "legenda": "Maquete"
                 },
                 {
-                    "src": "IMG_3832.JPG",
-                    "legenda": "Foto"
+                    "src": "3.jpg",
+                    "legenda": "Maquete"
                 },
                 {
-                    "src": "IMG_3838.JPG",
-                    "legenda": "Foto"
+                    "src": "4.jpg",
+                    "legenda": "Maquete"
                 },
                 {
-                    "src": "IMG_3842.JPG",
-                    "legenda": "Foto"
+                    "src": "5.jpg",
+                    "legenda": "Maquete"
                 },
                 {
-                    "src": "IMG_3843.JPG",
-                    "legenda": "Foto"
+                    "src": "6.jpg",
+                    "legenda": "Croqui"
                 },
                 {
-                    "src": "IMG_3845.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_3952.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_3956.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_3962.JPG",
-                    "legenda": "Foto"
+                    "src": "7.jpg",
+                    "legenda": "Planta Baixa"
                 }
             ]
         },
