@@ -55,7 +55,7 @@
                     "legenda": "Croqui"
                 }                
             ]
-        },
+        },/*
         {
             "titulo": "Casa da Simone e do Futica",
             "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
@@ -215,7 +215,7 @@
                     "legenda": "Foto"
                 }
             ]
-        },
+        },*/
         {
             "titulo": "Jazigo capela",
             "descricao": "Projeto de jazigo capela em Bom Sucesso do Sul / PR",
