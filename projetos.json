@@ -388,7 +388,7 @@
             "titulo": "Sobrado do Augusto",
             "descricao": "Projeto de interiores residencial em Curitiba / PR",
             "tipo": "proj-interiores",
-            "pasta": "images/projetos/Sobrado Lenize Augusto/",
+            "pasta": "images/projetos/Sobrado Augusto/",
             "imagens": [
                 {
                     "src": "DSC_0296.jpg",
@@ -453,6 +453,42 @@
                 {
                     "src": "DSC_0322.jpg",
                     "legenda": "Foto"
+                },
+                {
+                    "src": "00.jpg",
+                    "legenda": "Studio - Ambientação 3D"
+                },
+                {
+                    "src": "01.jpg",
+                    "legenda": "Studio - Ambientação 3D"
+                },
+                {
+                    "src": "02.jpg",
+                    "legenda": "Studio - Ambientação 3D"
+                },
+                {
+                    "src": "03.jpg",
+                    "legenda": "Studio - Ambientação 3D"
+                },
+                {
+                    "src": "04.jpg",
+                    "legenda": "Studio - Ambientação 3D"
+                },
+                {
+                    "src": "05.jpg",
+                    "legenda": "Studio - Ambientação 3D"
+                },
+                {
+                    "src": "06.jpg",
+                    "legenda": "Studio - Ambientação 3D"
+                },
+                {
+                    "src": "07.jpg",
+                    "legenda": "Studio - Ambientação 3D"
+                },
+                {
+                    "src": "08.jpg",
+                    "legenda": "Studio - Ambientação 3D"
                 }
             ]
         },
@@ -514,67 +550,54 @@
             "tipo": "proj-interiores",
             "pasta": "images/projetos/Apartamento Franci e Dudu/",
             "imagens": [
-                {
-                    "src": "IMG_3971.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_3975.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_3986.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_3990.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_3998.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_4002.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_4005.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_4009.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_4010.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_4013.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_4018.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_4022.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_4026.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_4028.JPG",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "IMG_4031.JPG",
-                    "legenda": "Foto"
-                }                
+                { "src": "IMG_3971.JPG", "legenda": "Foto" },
+                { "src": "IMG_3975.JPG", "legenda": "Foto" },
+                { "src": "IMG_3986.JPG", "legenda": "Foto" },
+                { "src": "IMG_3990.JPG", "legenda": "Foto" },
+                { "src": "IMG_3998.JPG", "legenda": "Foto" },
+                { "src": "IMG_4002.JPG", "legenda": "Foto" },
+                { "src": "IMG_4005.JPG", "legenda": "Foto" },
+                { "src": "IMG_4009.JPG", "legenda": "Foto" },
+                { "src": "IMG_4010.JPG", "legenda": "Foto" },
+                { "src": "IMG_4013.JPG", "legenda": "Foto" },
+                { "src": "IMG_4018.JPG", "legenda": "Foto" },
+                { "src": "IMG_4022.JPG", "legenda": "Foto" },
+                { "src": "IMG_4026.JPG", "legenda": "Foto" },
+                { "src": "IMG_4028.JPG", "legenda": "Foto" },
+                { "src": "IMG_4031.JPG", "legenda": "Foto" }                
             ]
-        }
+        },
+        {
+            "titulo": "Apartamento da Iara e do Eduardo",
+            "descricao": "Projeto de interiores residencial em Campo Largo / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/Apartamento Iara e Eduardo/",
+            "imagens": [
+                 { "src": "05.jpg", "legenda": "Foto" }
+                ,{ "src": "01.jpg", "legenda": "Foto" }
+                ,{ "src": "02.jpg", "legenda": "Foto" }
+                ,{ "src": "03.jpg", "legenda": "Foto" }
+                ,{ "src": "04.jpg", "legenda": "Foto" }
+                ,{ "src": "06.jpg", "legenda": "Foto" }
+                ,{ "src": "07.jpg", "legenda": "Foto" }
+                ,{ "src": "08.jpg", "legenda": "Foto" }
+                ,{ "src": "09.jpg", "legenda": "Foto" }
+                ,{ "src": "10.jpg", "legenda": "Foto" }
+            ]
+        },
+        {
+            "titulo": "Casa da Leila e do Andrei",
+            "descricao": "Projeto de decoração de mezanino e guarda-corpo de escadaria residencial em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/Casa Leila e Andrei/",
+            "imagens": [
+                 { "src": "E-03_I-01.jpg", "legenda": "Foto" }
+                ,{ "src": "E-01_I-02.jpg", "legenda": "Foto" }
+                ,{ "src": "E-02_I-02.jpg", "legenda": "Foto" }
+                ,{ "src": "E-03_I-02.jpg", "legenda": "Foto" }
+                ,{ "src": "E-03_I-03.jpg", "legenda": "Foto" }
+                ,{ "src": "E-04_I-02.jpg", "legenda": "Foto" }
+            ]
+        }           
     ]
 }
