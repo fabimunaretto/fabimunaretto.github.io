@@ -202,30 +202,28 @@
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA ELIANE E RÔMULO/",
             "imagens": [
-                {
-                    "src": "MAQUETE-4.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-1.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-2.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-3.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "PLANTA BAIXA TÉRREO-1.png",
-                    "legenda": "Planta Baixa"
-                },
-                {
-                    "src": "CROQUI.jpg",
-                    "legenda": "Croqui"
-                }
+                 { "src": "MAQUETE-4.jpg", "legenda": "Maquete" }
+                ,{ "src": "MAQUETE-1.jpg", "legenda": "Maquete" }
+                ,{ "src": "MAQUETE-2.jpg", "legenda": "Maquete" }
+                ,{ "src": "MAQUETE-3.jpg", "legenda": "Maquete" }
+                ,{ "src": "PLANTA BAIXA TÉRREO-1.png", "legenda": "Planta Baixa" }
+                ,{ "src": "CROQUI.jpg", "legenda": "Croqui" }
+                ,{ "src": "IMG_2025.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_2037.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_2039.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_2044.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_1.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_2.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_3.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_4.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_5.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_6.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_7.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_8.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_9.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_10.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_11.jpg", "legenda": "Foto" }
+                ,{ "src": "IMG_12.jpg", "legenda": "Foto" }
             ]
         },
         {
@@ -597,6 +595,35 @@
                 ,{ "src": "E-03_I-03.jpg", "legenda": "Foto" }
                 ,{ "src": "E-04_I-02.jpg", "legenda": "Foto" }
             ]
-        }           
+        },
+        {
+            "titulo": "Unidade de Recebimentos de Grãos",
+            "descricao": "Unidade de Recebimentos de Grãos em Bom Sucesso do Sul / PR",
+            "tipo": "proj-outros",
+            "pasta": "images/projetos/UNIDADE DE ARMAZENAMENTO - VILA BONITA/",
+            "imagens": [
+                 { "src": "2.jpg", "legenda": "Foto" }
+                ,{ "src": "1.jpg", "legenda": "Foto" }                
+                ,{ "src": "3.jpg", "legenda": "Foto" }
+                ,{ "src": "4.jpg", "legenda": "Foto" }
+                ,{ "src": "5.jpg", "legenda": "Foto" }
+                ,{ "src": "6.jpg", "legenda": "Foto" }
+                ,{ "src": "7.jpg", "legenda": "Foto" }
+                ,{ "src": "8.jpg", "legenda": "Foto" }
+                ,{ "src": "9.jpg", "legenda": "Foto" }
+                ,{ "src": "10.jpg", "legenda": "Foto" }
+                ,{ "src": "11.jpg", "legenda": "Foto" }
+                ,{ "src": "12.jpg", "legenda": "Foto" }
+                ,{ "src": "13.jpg", "legenda": "Foto" }
+                ,{ "src": "14.jpg", "legenda": "Foto" }
+                ,{ "src": "15.jpg", "legenda": "Foto" }
+                ,{ "src": "16.jpg", "legenda": "Foto" }
+                ,{ "src": "17.jpg", "legenda": "Foto" }
+                ,{ "src": "18.jpg", "legenda": "Foto" }
+                ,{ "src": "19.jpg", "legenda": "Foto" }
+            ]
+        }
+
+
     ]
 }
