@@ -62,26 +62,11 @@
             "tipo": "proj-outros",
             "pasta": "images/projetos/JAZIGO CAPELA/",
             "imagens": [
-                {
-                    "src": "01.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "02.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "03.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "04.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "CROQUI.jpg",
-                    "legenda": "Croqui"
-                }
+                 { "src": "01.jpg", "legenda": "Foto" }
+                ,{ "src": "02.jpg", "legenda": "Foto" }
+                ,{ "src": "03.jpg", "legenda": "Foto" }
+                ,{ "src": "04.jpg", "legenda": "Foto" }
+                ,{ "src": "CROQUI.jpg", "legenda": "Croqui" }
             ]
         },
         {
@@ -90,14 +75,8 @@
             "tipo": "proj-paisagismo",
             "pasta": "images/projetos/PAISAGISMO EXTERNO RESIDÊNCIA KARINA/",
             "imagens": [
-                {
-                    "src": "CROQUI.jpg",
-                    "legenda": "Croqui"
-                },
-                {
-                    "src": "CROQUI 2.jpg",
-                    "legenda": "Croqui"
-                }
+                 { "src": "CROQUI.jpg", "legenda": "Croqui" }
+                ,{ "src": "CROQUI 2.jpg", "legenda": "Croqui" }
             ]
         },
         {
@@ -106,10 +85,7 @@
             "tipo": "proj-paisagismo",
             "pasta": "images/projetos/PAISAGISMO EXTERNO RESIDêNCIA MÔNICA E OSVALDO/",
             "imagens": [
-                {
-                    "src": "PLANTA BAIXA-1.png",
-                    "legenda": "Planta Baixa"
-                }
+                { "src": "PLANTA BAIXA-1.png", "legenda": "Planta Baixa" }
             ]
         },
         {
@@ -595,8 +571,8 @@
                 ,{ "src": "E-03_I-03.jpg", "legenda": "Foto" }
                 ,{ "src": "E-04_I-02.jpg", "legenda": "Foto" }
             ]
-        },
-        {
+        }
+        ,{
             "titulo": "Unidade de Recebimentos de Grãos",
             "descricao": "Unidade de Recebimentos de Grãos em Bom Sucesso do Sul / PR",
             "tipo": "proj-outros",
@@ -623,7 +599,51 @@
                 ,{ "src": "19.jpg", "legenda": "Foto" }
             ]
         }
-
-
+        ,{
+            "titulo": "AP da Fabi, do Bruno, do Panetone e do Voldemort",
+            "descricao": "Projeto de interiores residencial em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/AP Fabi e Bruno/",
+            "imagens": [
+                 { "src": "1.jpg", "legenda": "Foto" }
+                ,{ "src": "2.jpg", "legenda": "Foto" }                
+                ,{ "src": "3.jpg", "legenda": "Foto" }
+                ,{ "src": "4.jpg", "legenda": "Foto" }
+                ,{ "src": "5.jpg", "legenda": "Foto" }
+                ,{ "src": "6.jpg", "legenda": "Foto" }
+                ,{ "src": "7.jpg", "legenda": "Foto" }
+                ,{ "src": "8.jpg", "legenda": "Foto" }
+                ,{ "src": "9.jpg", "legenda": "Foto" }
+                ,{ "src": "10.jpg", "legenda": "Foto" }
+                ,{ "src": "11.jpg", "legenda": "Foto" }
+                ,{ "src": "12.jpg", "legenda": "Foto" }
+                ,{ "src": "13.jpg", "legenda": "Foto" }
+                ,{ "src": "14.jpg", "legenda": "Foto" }
+                ,{ "src": "15.jpg", "legenda": "Foto" }
+                ,{ "src": "16.jpg", "legenda": "Foto" }
+                ,{ "src": "17.jpg", "legenda": "Foto" }
+                ,{ "src": "18.jpg", "legenda": "Foto" }
+                ,{ "src": "19.jpg", "legenda": "Foto" }
+                ,{ "src": "20.jpg", "legenda": "Foto" }
+                ,{ "src": "21.jpg", "legenda": "Foto" }
+                ,{ "src": "22.jpg", "legenda": "Foto" }
+                ,{ "src": "23.jpg", "legenda": "Foto" }
+                ,{ "src": "24.jpg", "legenda": "Foto" }
+                ,{ "src": "25.jpg", "legenda": "Foto" }
+                ,{ "src": "26.jpg", "legenda": "Foto" }
+                ,{ "src": "27.jpg", "legenda": "Foto" }
+                ,{ "src": "28.jpg", "legenda": "Foto" }
+                ,{ "src": "29.jpg", "legenda": "Foto" }
+                ,{ "src": "30.jpg", "legenda": "Foto" }
+                ,{ "src": "31.jpg", "legenda": "Foto" }
+                ,{ "src": "32.jpg", "legenda": "Foto" }
+                ,{ "src": "33.jpg", "legenda": "Foto" }
+                ,{ "src": "34.jpg", "legenda": "Foto" }
+                ,{ "src": "35.jpg", "legenda": "Foto" }
+                ,{ "src": "36.jpg", "legenda": "Foto" }
+                ,{ "src": "37.jpg", "legenda": "Foto" }
+                ,{ "src": "38.jpg", "legenda": "Foto" }
+            ]
+        }
     ]
 }
