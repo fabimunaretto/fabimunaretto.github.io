@@ -6,34 +6,13 @@
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA ASSUNTA E ALDENOR/",
             "imagens": [
-                {
-                    "src": "MAQUETE-1.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-2.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-3.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-4.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "PLANTA BAIXA-1.png",
-                    "legenda": "Planta Baixa"
-                },                
-                {
-                    "src": "CROQUI-1.jpg",
-                    "legenda": "Croqui"
-                },
-                {
-                    "src": "CROQUI-2.jpg",
-                    "legenda": "Croqui"
-                }
+                { "src": "MAQUETE-1.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-2.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-3.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-4.jpg", "legenda": "Maquete" },
+                { "src": "PLANTA BAIXA-1.png", "legenda": "Planta Baixa" },                
+                { "src": "CROQUI-1.jpg", "legenda": "Croqui" },
+                { "src": "CROQUI-2.jpg", "legenda": "Croqui" }
             ]
         },
         {
@@ -42,18 +21,9 @@
             "tipo": "proj-outros",
             "pasta": "images/projetos/ATELIER DE DOCES FINOS/",
             "imagens": [
-                {
-                    "src": "CROQUI 1.jpg",
-                    "legenda": "Croqui"
-                },
-                {
-                    "src": "CROQUI 2.jpg",
-                    "legenda": "Croqui"
-                },
-                {
-                    "src": "CROQUI 3.jpg",
-                    "legenda": "Croqui"
-                }                
+                { "src": "CROQUI 1.jpg", "legenda": "Croqui" },
+                { "src": "CROQUI 2.jpg", "legenda": "Croqui" },
+                { "src": "CROQUI 3.jpg", "legenda": "Croqui" }                
             ]
         },
         {
@@ -94,46 +64,16 @@
             "tipo": "proj-outros",
             "pasta": "images/projetos/REFORMA DE TEMPLO RELIGIOSO/",
             "imagens": [
-                {
-                    "src": "03.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "02.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "05.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "20.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "27.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "01 - CROQUI.jpg",
-                    "legenda": "Croqui"
-                },
-                {
-                    "src": "11.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "13.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "14.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "16.jpg",
-                    "legenda": "Maquete"
-                }
+                { "src": "03.jpg", "legenda": "Maquete" },
+                { "src": "02.jpg", "legenda": "Maquete" },
+                { "src": "05.jpg", "legenda": "Maquete" },
+                { "src": "20.jpg", "legenda": "Maquete" },
+                { "src": "27.jpg", "legenda": "Maquete" },
+                { "src": "01 - CROQUI.jpg", "legenda": "Croqui" },
+                { "src": "11.jpg", "legenda": "Maquete" },
+                { "src": "13.jpg", "legenda": "Maquete" },
+                { "src": "14.jpg", "legenda": "Maquete" },
+                { "src": "16.jpg", "legenda": "Maquete" }
             ]
         },
         {
@@ -142,34 +82,13 @@
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA CAROL E IVAN/",
             "imagens": [
-                {
-                    "src": "MAQUETE-1.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-2.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-3.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-4.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-5.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "PLANTA BAIXA-1.png",
-                    "legenda": "Planta Baixa"
-                },
-                {
-                    "src": "CROQUI.jpg",
-                    "legenda": "Croqui"
-                }
+                { "src": "MAQUETE-1.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-2.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-3.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-4.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-5.jpg", "legenda": "Maquete" },
+                { "src": "PLANTA BAIXA-1.png", "legenda": "Planta Baixa" },
+                { "src": "CROQUI.jpg", "legenda": "Croqui" }
             ]
         },
         {
@@ -208,34 +127,13 @@
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA GILCE E ADELAR/",
             "imagens": [
-                {
-                    "src": "01.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "02.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "03.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "04.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "05.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "PLANTA BAIXA TÉRREO-1.png",
-                    "legenda": "Planta Baixa"
-                },                
-                {
-                    "src": "FACHADA PRINCIPAL.jpg",
-                    "legenda": "Fachada Principal"
-                }
+                { "src": "01.jpg", "legenda": "Maquete" },
+                { "src": "02.jpg", "legenda": "Maquete" },
+                { "src": "03.jpg", "legenda": "Maquete" },
+                { "src": "04.jpg", "legenda": "Maquete" },
+                { "src": "05.jpg", "legenda": "Maquete" },
+                { "src": "PLANTA BAIXA TÉRREO-1.png", "legenda": "Planta Baixa" },                
+                { "src": "FACHADA PRINCIPAL.jpg", "legenda": "Fachada Principal" }
             ]
         },
         {
@@ -244,42 +142,15 @@
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA MÁRCIA E RODRIGO/",
             "imagens": [
-                {
-                    "src": "MAQUETE-1.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-3.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-4.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-5.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-6.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "PLANTA BAIXA TÉRREO-1.png",
-                    "legenda": "Planta Baixa"
-                },
-                {
-                    "src": "PLANTA BAIXA PVTO SUPERIOR-1.png",
-                    "legenda": "Planta Baixa"
-                },
-                {
-                    "src": "CROQUI-1.jpg",
-                    "legenda": "Croqui"
-                },
-                {
-                    "src": "CROQUI-2.jpg",
-                    "legenda": "Croqui"
-                }
+                { "src": "MAQUETE-1.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-3.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-4.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-5.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-6.jpg", "legenda": "Maquete" },
+                { "src": "PLANTA BAIXA TÉRREO-1.png", "legenda": "Planta Baixa" },
+                { "src": "PLANTA BAIXA PVTO SUPERIOR-1.png", "legenda": "Planta Baixa" },
+                { "src": "CROQUI-1.jpg", "legenda": "Croqui" },
+                { "src": "CROQUI-2.jpg", "legenda": "Croqui" }
             ]
         },
         {
@@ -288,38 +159,14 @@
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA MARIZETE E AMILTON/",
             "imagens": [
-                {
-                    "src": "MAQUETE-2.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-1.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-3.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-4.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-5.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-6.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "PLANTA BAIXA TÉRREO-1.png",
-                    "legenda": "Planta Baixa"
-                },
-                {
-                    "src": "CROQUI.jpg",
-                    "legenda": "Croqui"
-                }
+                { "src": "MAQUETE-2.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-1.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-3.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-4.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-5.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-6.jpg", "legenda": "Maquete" },
+                { "src": "PLANTA BAIXA TÉRREO-1.png", "legenda": "Planta Baixa" },
+                { "src": "CROQUI.jpg", "legenda": "Croqui" }
             ]
         },
         {
@@ -328,34 +175,13 @@
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA VERACY E NEREU/",
             "imagens": [
-                {
-                    "src": "MAQUETE-6.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-1.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-2.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-3.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "MAQUETE-4.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "PLANTA BAIXA TÉRREO-1.png",
-                    "legenda": "Planta Baixa"
-                },
-                {
-                    "src": "CROQUI 1.jpg",
-                    "legenda": "Croqui"
-                }
+                { "src": "MAQUETE-6.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-1.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-2.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-3.jpg", "legenda": "Maquete" },
+                { "src": "MAQUETE-4.jpg", "legenda": "Maquete" },
+                { "src": "PLANTA BAIXA TÉRREO-1.png", "legenda": "Planta Baixa" },
+                { "src": "CROQUI 1.jpg", "legenda": "Croqui" }
             ]
         },
         {
@@ -364,106 +190,31 @@
             "tipo": "proj-interiores",
             "pasta": "images/projetos/Sobrado Augusto/",
             "imagens": [
-                {
-                    "src": "DSC_0296.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0297.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0298.jpg",
-                    "legenda": "Foto"
-                },                
-                {
-                    "src": "DSC_0300.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0301.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0303.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0306.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0308.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0312.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0313.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0314.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0317.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0318.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0319.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0320.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "DSC_0322.jpg",
-                    "legenda": "Foto"
-                },
-                {
-                    "src": "00.jpg",
-                    "legenda": "Studio - Ambientação 3D"
-                },
-                {
-                    "src": "01.jpg",
-                    "legenda": "Studio - Ambientação 3D"
-                },
-                {
-                    "src": "02.jpg",
-                    "legenda": "Studio - Ambientação 3D"
-                },
-                {
-                    "src": "03.jpg",
-                    "legenda": "Studio - Ambientação 3D"
-                },
-                {
-                    "src": "04.jpg",
-                    "legenda": "Studio - Ambientação 3D"
-                },
-                {
-                    "src": "05.jpg",
-                    "legenda": "Studio - Ambientação 3D"
-                },
-                {
-                    "src": "06.jpg",
-                    "legenda": "Studio - Ambientação 3D"
-                },
-                {
-                    "src": "07.jpg",
-                    "legenda": "Studio - Ambientação 3D"
-                },
-                {
-                    "src": "08.jpg",
-                    "legenda": "Studio - Ambientação 3D"
-                }
+                { "src": "DSC_0296.jpg", "legenda": "Foto" },
+                { "src": "DSC_0297.jpg", "legenda": "Foto" },
+                { "src": "DSC_0298.jpg", "legenda": "Foto" },                
+                { "src": "DSC_0300.jpg", "legenda": "Foto" },
+                { "src": "DSC_0301.jpg", "legenda": "Foto" },
+                { "src": "DSC_0303.jpg", "legenda": "Foto" },
+                { "src": "DSC_0306.jpg", "legenda": "Foto" },
+                { "src": "DSC_0308.jpg", "legenda": "Foto" },
+                { "src": "DSC_0312.jpg", "legenda": "Foto" },
+                { "src": "DSC_0313.jpg", "legenda": "Foto" },
+                { "src": "DSC_0314.jpg", "legenda": "Foto" },
+                { "src": "DSC_0317.jpg", "legenda": "Foto" },
+                { "src": "DSC_0318.jpg", "legenda": "Foto" },
+                { "src": "DSC_0319.jpg", "legenda": "Foto" },
+                { "src": "DSC_0320.jpg", "legenda": "Foto" },
+                { "src": "DSC_0322.jpg", "legenda": "Foto" },
+                { "src": "00.jpg", "legenda": "Studio - Ambientação 3D" },
+                { "src": "01.jpg", "legenda": "Studio - Ambientação 3D" },
+                { "src": "02.jpg", "legenda": "Studio - Ambientação 3D" },
+                { "src": "03.jpg", "legenda": "Studio - Ambientação 3D" },
+                { "src": "04.jpg", "legenda": "Studio - Ambientação 3D" },
+                { "src": "05.jpg", "legenda": "Studio - Ambientação 3D" },
+                { "src": "06.jpg", "legenda": "Studio - Ambientação 3D" },
+                { "src": "07.jpg", "legenda": "Studio - Ambientação 3D" },
+                { "src": "08.jpg", "legenda": "Studio - Ambientação 3D" }
             ]
         },
         {
@@ -472,14 +223,8 @@
             "tipo": "proj-paisagismo",
             "pasta": "images/projetos/Salao de Festas da Adri e do Rafael/",
             "imagens": [
-                {
-                    "src": "Croqui.jpg",
-                    "legenda": "Croqui"
-                },
-                {
-                    "src": "planta-baixa.png",
-                    "legenda": "Planta Baixa"
-                }
+                { "src": "Croqui.jpg", "legenda": "Croqui" },
+                { "src": "planta-baixa.png", "legenda": "Planta Baixa" }
             ]
         },
         {
@@ -488,34 +233,13 @@
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/Casa da Nilzete e do Pedro/",
             "imagens": [
-                {
-                    "src": "1.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "2.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "3.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "4.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "5.jpg",
-                    "legenda": "Maquete"
-                },
-                {
-                    "src": "6.jpg",
-                    "legenda": "Croqui"
-                },
-                {
-                    "src": "7.jpg",
-                    "legenda": "Planta Baixa"
-                }
+                { "src": "1.jpg", "legenda": "Maquete" },
+                { "src": "2.jpg", "legenda": "Maquete" },
+                { "src": "3.jpg", "legenda": "Maquete" },
+                { "src": "4.jpg", "legenda": "Maquete" },
+                { "src": "5.jpg", "legenda": "Maquete" },
+                { "src": "6.jpg", "legenda": "Croqui" },
+                { "src": "7.jpg", "legenda": "Planta Baixa" }
             ]
         },
         {
