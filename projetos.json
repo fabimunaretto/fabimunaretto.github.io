@@ -92,16 +92,6 @@
             ]
         },
         {
-            "titulo": "Casa da Karina",
-            "descricao": "Projeto de paisagismo externo em Pato Branco / PR",
-            "tipo": "proj-paisagismo",
-            "pasta": "images/projetos/PAISAGISMO EXTERNO RESIDÊNCIA KARINA/",
-            "imagens": [
-                 { "src": "CROQUI.jpg", "legenda": "Croqui" }
-                ,{ "src": "CROQUI 2.jpg", "legenda": "Croqui" }
-            ]
-        },
-        {
             "titulo": "Casa da Mônica e do Osvaldo",
             "descricao": "Projeto de paisagismo externo em Pato Branco / PR",
             "tipo": "proj-paisagismo",
@@ -295,7 +285,7 @@
             ]
         },
         {
-            "titulo": "Apartamento da Franci e do Dudu",
+            "titulo": "Apê da Franci e do Dudu",
             "descricao": "Projeto de interiores residencial em Pato Branco / PR",
             "tipo": "proj-interiores",
             "pasta": "images/projetos/Apartamento Franci e Dudu/",
@@ -318,7 +308,7 @@
             ]
         },
         {
-            "titulo": "Apartamento da Iara e do Eduardo",
+            "titulo": "Apê da Iara e do Eduardo",
             "descricao": "Projeto de interiores residencial em Campo Largo / PR",
             "tipo": "proj-interiores",
             "pasta": "images/projetos/Apartamento Iara e Eduardo/",
@@ -423,8 +413,8 @@
         },
         {
             "titulo": "Condomínio Residencial Gênesis",
-            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
-            "tipo": "proj-residenciais",
+            "descricao": "Projeto de condomínio residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-outros",
             "pasta": "images/projetos/site1/",
             "imagens": [
                  { "src": "01.jpg", "legenda": "Modelo 3D" }
@@ -460,8 +450,8 @@
         },
         {
             "titulo": "Casa da Vera e do Leo, da Lais e do Jhonata",
-            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
-            "tipo": "proj-residenciais",
+            "descricao": "Projeto de edificação residencial multifamiliar em Bom Sucesso do Sul / PR",
+            "tipo": "proj-outros",
             "pasta": "images/projetos/site3/",
             "imagens": [
                  { "src": "01.jpg", "legenda": "Modelo 3D" }
@@ -479,7 +469,7 @@
         {
             "titulo": "Casa da Iva e do Evandro",
             "descricao": "Reforma da fachada frontal e muro em Pato Branco /PR",
-            "tipo": "proj-residenciais",
+            "tipo": "proj-outros",
             "pasta": "images/projetos/site4/",
             "imagens": [
                  { "src": "01.jpg", "legenda": "Modelo 3D" }
