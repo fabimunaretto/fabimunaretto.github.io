@@ -10,7 +10,7 @@
                 { "src": "MAQUETE-2.jpg", "legenda": "Maquete" },
                 { "src": "MAQUETE-3.jpg", "legenda": "Maquete" },
                 { "src": "MAQUETE-4.jpg", "legenda": "Maquete" },
-                { "src": "PLANTA BAIXA-1.png", "legenda": "Planta Baixa" },                
+                { "src": "PLANTA BAIXA-1.png", "legenda": "Planta Baixa" },
                 { "src": "CROQUI-1.jpg", "legenda": "Croqui" },
                 { "src": "CROQUI-2.jpg", "legenda": "Croqui" }
             ]
@@ -23,7 +23,7 @@
             "imagens": [
                 { "src": "CROQUI 1.jpg", "legenda": "Croqui" },
                 { "src": "CROQUI 2.jpg", "legenda": "Croqui" },
-                { "src": "CROQUI 3.jpg", "legenda": "Croqui" }                
+                { "src": "CROQUI 3.jpg", "legenda": "Croqui" }
             ]
         },
         {
@@ -32,7 +32,7 @@
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/Casa Simone Futica Edificacao/",
             "imagens": [
-                { "src": "IMG_3965.JPG", "legenda": "Foto" },            
+                { "src": "IMG_3965.JPG", "legenda": "Foto" },
                 { "src": "IMG_3825.JPG", "legenda": "Foto" },
                 { "src": "IMG_3827.JPG", "legenda": "Foto" },
                 { "src": "IMG_3832.JPG", "legenda": "Foto" },
@@ -77,7 +77,7 @@
                 { "src": "IMG_3947.JPG", "legenda": "Foto" },
                 { "src": "IMG_3951.JPG", "legenda": "Foto" }
             ]
-        },        
+        },
         {
             "titulo": "Jazigo capela",
             "descricao": "Projeto de jazigo capela em Bom Sucesso do Sul / PR",
@@ -184,7 +184,7 @@
                 { "src": "03.jpg", "legenda": "Maquete" },
                 { "src": "04.jpg", "legenda": "Maquete" },
                 { "src": "05.jpg", "legenda": "Maquete" },
-                { "src": "PLANTA BAIXA TÉRREO-1.png", "legenda": "Planta Baixa" },                
+                { "src": "PLANTA BAIXA TÉRREO-1.png", "legenda": "Planta Baixa" },
                 { "src": "FACHADA PRINCIPAL.jpg", "legenda": "Fachada Principal" }
             ]
         },
@@ -244,7 +244,7 @@
             "imagens": [
                 { "src": "DSC_0296.jpg", "legenda": "Foto" },
                 { "src": "DSC_0297.jpg", "legenda": "Foto" },
-                { "src": "DSC_0298.jpg", "legenda": "Foto" },                
+                { "src": "DSC_0298.jpg", "legenda": "Foto" },
                 { "src": "DSC_0300.jpg", "legenda": "Foto" },
                 { "src": "DSC_0301.jpg", "legenda": "Foto" },
                 { "src": "DSC_0303.jpg", "legenda": "Foto" },
@@ -314,7 +314,7 @@
                 { "src": "IMG_4022.JPG", "legenda": "Foto" },
                 { "src": "IMG_4026.JPG", "legenda": "Foto" },
                 { "src": "IMG_4028.JPG", "legenda": "Foto" },
-                { "src": "IMG_4031.JPG", "legenda": "Foto" }                
+                { "src": "IMG_4031.JPG", "legenda": "Foto" }
             ]
         },
         {
@@ -347,15 +347,15 @@
                 ,{ "src": "E-03_I-03.jpg", "legenda": "Foto" }
                 ,{ "src": "E-04_I-02.jpg", "legenda": "Foto" }
             ]
-        }
-        ,{
+        },
+        {
             "titulo": "Unidade de Recebimentos de Grãos",
             "descricao": "Unidade de Recebimentos de Grãos em Bom Sucesso do Sul / PR",
             "tipo": "proj-outros",
             "pasta": "images/projetos/UNIDADE DE ARMAZENAMENTO - VILA BONITA/",
             "imagens": [
                  { "src": "2.jpg", "legenda": "Foto" }
-                ,{ "src": "1.jpg", "legenda": "Foto" }                
+                ,{ "src": "1.jpg", "legenda": "Foto" }
                 ,{ "src": "3.jpg", "legenda": "Foto" }
                 ,{ "src": "4.jpg", "legenda": "Foto" }
                 ,{ "src": "5.jpg", "legenda": "Foto" }
@@ -382,7 +382,7 @@
             "pasta": "images/projetos/AP Fabi e Bruno/",
             "imagens": [
                  { "src": "1.jpg", "legenda": "Foto" }
-                ,{ "src": "2.jpg", "legenda": "Foto" }                
+                ,{ "src": "2.jpg", "legenda": "Foto" }
                 ,{ "src": "3.jpg", "legenda": "Foto" }
                 ,{ "src": "4.jpg", "legenda": "Foto" }
                 ,{ "src": "5.jpg", "legenda": "Foto" }
@@ -419,6 +419,177 @@
                 ,{ "src": "36.jpg", "legenda": "Foto" }
                 ,{ "src": "37.jpg", "legenda": "Foto" }
                 ,{ "src": "38.jpg", "legenda": "Foto" }
+            ]
+        },
+        {
+            "titulo": "Condomínio Residencial Gênesis",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/site1/",
+            "imagens": [
+                 { "src": "01.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "02.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "03.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "04.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "05.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "11.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "12.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "13.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "14.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "16.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "18.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "21.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "22.jpg", "legenda": "Modelo 3D" }
+            ]
+        },
+        {
+            "titulo": "Casa da Cris e do Marcos",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/site2/",
+            "imagens": [
+                 { "src": "09.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "10.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "12.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "14.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "18.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "19.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "20.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "21.jpg", "legenda": "Modelo 3D" }
+            ]
+        },
+        {
+            "titulo": "Casa da Vera e do Leo, da Lais e do Jhonata",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/site3/",
+            "imagens": [
+                 { "src": "01.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "02.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "03.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "06.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "07.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "10.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "11.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "12.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "18.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "19.jpg", "legenda": "Modelo 3D" }
+            ]
+        },
+        {
+            "titulo": "Casa da Iva e do Evandro",
+            "descricao": "Reforma da fachada frontal e muro em Pato Branco /PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/site4/",
+            "imagens": [
+                 { "src": "01.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "04.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "05.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "06.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "07.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "08.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "09.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "10.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "12.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "13.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "17.jpg", "legenda": "Modelo 3D" }
+            ]
+        },
+        {
+            "titulo": "Casa da Nita e do Tonho",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/site5/",
+            "imagens": [
+                 { "src": "02.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "03.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "04.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "05.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "13.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "19.jpg", "legenda": "Modelo 3D" }
+            ]
+        },
+        {
+            "titulo": "Apê da Ivete e do Henio",
+            "descricao": "Reforma de cozinha em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/site6/",
+            "imagens": [
+                 { "src": "mesa 03.1.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "mesa 03.2.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "mesa 03.3.jpg", "legenda": "Modelo 3D" }
+            ]
+        },
+        {
+            "titulo": "Apê da Giovana e do Eduardo",
+            "descricao": "Projeto de Interiores, hall, sala de TV, sala de jantar em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/site7/",
+            "imagens": [
+                 { "src": "01.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "02.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "03.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "04.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "05.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "06.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "07.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "08.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "09.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "10.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "11.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "12.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "PLANTA 033.jpg", "legenda": "Planta" }
+            ]
+        },
+        {
+            "titulo": "Apê da Marli e do Elson",
+            "descricao": "Projeto de Interiores em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/site8/",
+            "imagens": [
+                 { "src": "01.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "02.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "03.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "04.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "05.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "06.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "07.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "08.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "09.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "10.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "11.jpg", "legenda": "Modelo 3D" }
+            ]
+        },
+        {
+            "titulo": "Casa da Assunta, da Lais e do Andre",
+            "descricao": "Projeto de Interiores em Bom Sucesso do Sul / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/site9/",
+            "imagens": [
+                 { "src": "01.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "01A.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "02.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "02A.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "03.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "03A.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "04.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "04A.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "05.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "05A.jpg", "legenda": "Modelo 3D" }
+            ]
+        },
+        {
+            "titulo": "Casa da Cassiane e do Jerson",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/site10/",
+            "imagens": [
+                 { "src": "01.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "02.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "04.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "05.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "08.jpg", "legenda": "Modelo 3D" }
+                ,{ "src": "13.jpg", "legenda": "Modelo 3D" }
             ]
         }
     ]
