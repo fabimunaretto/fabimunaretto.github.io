@@ -1,7 +1,7 @@
 {
     "projetos": [
         {
-            "titulo": "Casa da Assunta e do Aldenor",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial em Renascença / PR",
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA ASSUNTA E ALDENOR/",
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "titulo": "Casa da Simone e do Futica",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/Casa Simone Futica Edificacao/",
@@ -46,7 +46,7 @@
             ]
          },
          {
-            "titulo": "Casa da Simone e do Futica",
+            "titulo": "Projeto de interiores",
             "descricao": "Projeto de interiores residencial em Bom Sucesso do Sul / PR",
             "tipo": "proj-interiores",
             "pasta": "images/projetos/Casa Simone Futica Interiores/",
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "titulo": "Casa da Mônica e do Osvaldo",
+            "titulo": "Projeto de paisagismo",
             "descricao": "Projeto de paisagismo externo em Pato Branco / PR",
             "tipo": "proj-paisagismo",
             "pasta": "images/projetos/PAISAGISMO EXTERNO RESIDêNCIA MÔNICA E OSVALDO/",
@@ -119,7 +119,7 @@
             ]
         },
         {
-            "titulo": "Casa da Carol e do Ivan",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA CAROL E IVAN/",
@@ -134,7 +134,7 @@
             ]
         },
         {
-            "titulo": "Casa da Eliane e do Rômulo",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA ELIANE E RÔMULO/",
@@ -164,7 +164,7 @@
             ]
         },
         {
-            "titulo": "Casa da Gilce e do Adelar",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA GILCE E ADELAR/",
@@ -179,7 +179,7 @@
             ]
         },
         {
-            "titulo": "Casa da Márcia e do Rodrigo",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial em Pato Branco / PR",
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA MÁRCIA E RODRIGO/",
@@ -196,7 +196,7 @@
             ]
         },
         {
-            "titulo": "Casa da Marizete e do Amilton",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA MARIZETE E AMILTON/",
@@ -212,7 +212,7 @@
             ]
         },
         {
-            "titulo": "Casa da Veracy e do Nereu",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/RESIDÊNCIA VERACY E NEREU/",
@@ -227,7 +227,7 @@
             ]
         },
         {
-            "titulo": "Sobrado do Augusto",
+            "titulo": "Projeto de interiores",
             "descricao": "Projeto de interiores residencial em Curitiba / PR",
             "tipo": "proj-interiores",
             "pasta": "images/projetos/Sobrado Augusto/",
@@ -260,7 +260,7 @@
             ]
         },
         {
-            "titulo": "Salão de Festas da Adri e do Rafael",
+            "titulo": "Projeto de paisagismo",
             "descricao": "Projeto de paisagismo externo em Pato Branco / PR",
             "tipo": "proj-paisagismo",
             "pasta": "images/projetos/Salao de Festas da Adri e do Rafael/",
@@ -270,7 +270,7 @@
             ]
         },
         {
-            "titulo": "Casa da Nilzete e do Pedro",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/Casa da Nilzete e do Pedro/",
@@ -285,7 +285,7 @@
             ]
         },
         {
-            "titulo": "Apê da Franci e do Dudu",
+            "titulo": "Projeto de interiores",
             "descricao": "Projeto de interiores residencial em Pato Branco / PR",
             "tipo": "proj-interiores",
             "pasta": "images/projetos/Apartamento Franci e Dudu/",
@@ -308,7 +308,7 @@
             ]
         },
         {
-            "titulo": "Apê da Iara e do Eduardo",
+            "titulo": "Projeto de interiores",
             "descricao": "Projeto de interiores residencial em Campo Largo / PR",
             "tipo": "proj-interiores",
             "pasta": "images/projetos/Apartamento Iara e Eduardo/",
@@ -325,7 +325,7 @@
             ]
         },
         {
-            "titulo": "Casa da Leila e do Andrei",
+            "titulo": "Projeto de decoração",
             "descricao": "Projeto de decoração de mezanino e guarda-corpo de escadaria residencial em Pato Branco / PR",
             "tipo": "proj-interiores",
             "pasta": "images/projetos/Casa Leila e Andrei/",
@@ -366,7 +366,7 @@
             ]
         }
         ,{
-            "titulo": "Apê da Fabi e do Bruno",
+            "titulo": "Projeto de interiores",
             "descricao": "Projeto de interiores residencial em Pato Branco / PR",
             "tipo": "proj-interiores",
             "pasta": "images/projetos/AP Fabi e Bruno/",
@@ -412,7 +412,7 @@
             ]
         },
         {
-            "titulo": "Condomínio Residencial Gênesis",
+            "titulo": "Condomínio Residencial",
             "descricao": "Projeto de condomínio residencial em Bom Sucesso do Sul / PR",
             "tipo": "proj-outros",
             "pasta": "images/projetos/site1/",
@@ -433,7 +433,7 @@
             ]
         },
         {
-            "titulo": "Casa da Cris e do Marcos",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/site2/",
@@ -449,7 +449,7 @@
             ]
         },
         {
-            "titulo": "Casa da Vera e do Leo, da Lais e do Jhonata",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial multifamiliar em Bom Sucesso do Sul / PR",
             "tipo": "proj-outros",
             "pasta": "images/projetos/site3/",
@@ -467,7 +467,7 @@
             ]
         },
         {
-            "titulo": "Casa da Iva e do Evandro",
+            "titulo": "Reforma de fachada",
             "descricao": "Reforma da fachada frontal e muro em Pato Branco /PR",
             "tipo": "proj-outros",
             "pasta": "images/projetos/site4/",
@@ -486,7 +486,7 @@
             ]
         },
         {
-            "titulo": "Casa da Nita e do Tonho",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/site5/",
@@ -500,7 +500,7 @@
             ]
         },
         {
-            "titulo": "Apê da Ivete e do Henio",
+            "titulo": "Reforma de cozinha",
             "descricao": "Reforma de cozinha em Pato Branco / PR",
             "tipo": "proj-interiores",
             "pasta": "images/projetos/site6/",
@@ -511,8 +511,8 @@
             ]
         },
         {
-            "titulo": "Apê da Giovana e do Eduardo",
-            "descricao": "Projeto de Interiores, hall, sala de TV, sala de jantar em Pato Branco / PR",
+            "titulo": "Projeto de interiores",
+            "descricao": "Projeto de interiores, hall, sala de TV, sala de jantar em Pato Branco / PR",
             "tipo": "proj-interiores",
             "pasta": "images/projetos/site7/",
             "imagens": [
@@ -532,8 +532,8 @@
             ]
         },
         {
-            "titulo": "Apê da Marli e do Elson",
-            "descricao": "Projeto de Interiores em Pato Branco / PR",
+            "titulo": "Projeto de interiores",
+            "descricao": "Projeto de interiores em Pato Branco / PR",
             "tipo": "proj-interiores",
             "pasta": "images/projetos/site8/",
             "imagens": [
@@ -551,8 +551,8 @@
             ]
         },
         {
-            "titulo": "Casa da Assunta, da Lais e do Andre",
-            "descricao": "Projeto de Interiores em Bom Sucesso do Sul / PR",
+            "titulo": "Projeto de interiores",
+            "descricao": "Projeto de interiores em Bom Sucesso do Sul / PR",
             "tipo": "proj-interiores",
             "pasta": "images/projetos/site9/",
             "imagens": [
@@ -569,7 +569,7 @@
             ]
         },
         {
-            "titulo": "Casa da Cassiane e do Jerson",
+            "titulo": "Projeto de edificação",
             "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
             "tipo": "proj-residenciais",
             "pasta": "images/projetos/site10/",
