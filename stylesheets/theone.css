@@ -966,6 +966,14 @@ p {
   color: #222222;
 }
 
+p.subline {
+  width: 50%;
+  margin: 5px auto 0;
+  line-height: 28px;
+  font-size: 20px;
+  color: #999;
+}
+
 blockquote {
   font-style: italic;
   font-weight: 400;
