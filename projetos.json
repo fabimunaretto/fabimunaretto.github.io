@@ -1334,6 +1334,503 @@
                 "src": "13.jpg",
                 "legenda": "Modelo 3D"
             }]
+        },
+        {
+            "titulo": "Projeto residencial",
+            "descricao": "Cobertura de piscina em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/COBERTURA DE PISCINA BOM SUCESSO/",
+            "imagens": [{
+                "src": "00.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "1.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "5.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "9.jpg",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Condomínio Residencial",
+            "descricao": "Projeto de condomínio residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/CONDOMINIO RESIDENCIAL BOM SUCESSO/",
+            "imagens": [{
+                "src": "1.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "3.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "5.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "6.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "9.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "10.jpg",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Edificio Residencial",
+            "descricao": "Projeto de edificio residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/ED. RESIDENCIAL. BOM SUCESSO/",
+            "imagens": [{
+                "src": "1.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "2.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "3.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "6.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "9.jpg",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Projeto de interiores",
+            "descricao": "Projeto de interiores residencial em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/INTERIORES PATO BRANCO 1/",
+            "imagens": [{
+                "src": "1.jpg",
+                "legenda": "Planta"
+            }, {
+                "src": "2.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "4.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "6.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "7.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "8.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "11.jpg",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Projeto de interiores",
+            "descricao": "Projeto de interiores residencial em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/INTERIORES PATO BRANCO 2/",
+            "imagens": [{
+                "src": "1.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "3.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "5.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "6.jpg",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Projeto de interiores",
+            "descricao": "Projeto de interiores residencial em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/INTERIORES PATO BRANCO 3/",
+            "imagens": [{
+                "src": "1.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "3.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "4.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "8.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "10.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "13.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "14.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "16.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "18.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "19.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "21.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "22.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "26.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "27.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "29.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "31.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "32.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "33.jpg",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Projeto de interiores",
+            "descricao": "Projeto de interiores residencial em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/INTERIORES PATO BRANCO 4/",
+            "imagens": [{
+                "src": "1.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "4.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "5.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "7.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "8.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "10.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "12.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "13.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "15.png",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Projeto de interiores",
+            "descricao": "Projeto de interiores residencial em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/INTERIORES PATO BRANCO 5/",
+            "imagens": [{
+                "src": "2.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "4.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "7.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "9.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "10.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "11.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "12.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "15.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "17.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "19.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "21.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "22.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "23.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "26.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "29.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "30.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "31.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "32.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "33.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "35.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "37.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "39.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "41.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "42.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "43.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "45.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "48.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "50.jpg",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Projeto de interiores",
+            "descricao": "Projeto de interiores residencial em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/INTERIORES PATO BRANCO 6/",
+            "imagens": [{
+                "src": "1.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "2.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "3.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "4.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "5.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "6.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "7.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "8.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "9.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "10.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "11.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "12.png",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Projeto de interiores",
+            "descricao": "Projeto de interiores residencial em Pato Branco / PR",
+            "tipo": "proj-interiores",
+            "pasta": "images/projetos/INTERIORES PATO BRANCO 7/",
+            "imagens": [{
+                "src": "1.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "5.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "6.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "8.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "11.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "12.png",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "16.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "17.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "21.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "22.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "25.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "28.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "31.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "32.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "36.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "37.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "39.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "41.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "45.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "47.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "48.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "50.jpg",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Reforma residencial",
+            "descricao": "Projeto de reforma de residencia em Pato Branco / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/REFORMA RESIDENCIA PATO BRANCO/",
+            "imagens": [{
+                "src": "1.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "2.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "4.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "5.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "6.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "7.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "8.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "9.jpg",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Projeto residencial",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/RESIDENCIA- BOM SUCESSO DO SUL -PR -1/",
+            "imagens": [{
+                "src": "1.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "2.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "4.jpg",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Projeto residencial",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/RESIDENCIA- BOM SUCESSO DO SUL -PR -2/",
+            "imagens": [{
+                "src": "1.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "6.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "8.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "9.jpg",
+                "legenda": "Modelo 3D"
+            }]
+        },
+        {
+            "titulo": "Projeto residencial",
+            "descricao": "Projeto de edificação residencial em Bom Sucesso do Sul / PR",
+            "tipo": "proj-residenciais",
+            "pasta": "images/projetos/RESIDENCIA- BOM SUCESSO DO SUL -PR -3/",
+            "imagens": [{
+                "src": "1.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "3.jpg",
+                "legenda": "Modelo 3D"
+            }, {
+                "src": "8.jpg",
+                "legenda": "Modelo 3D"
+            }]
         }
     ]
 }
