@@ -1380,28 +1380,6 @@
             }]
         },
         {
-            "titulo": "Edificio Residencial",
-            "descricao": "Projeto de edificio residencial em Bom Sucesso do Sul / PR",
-            "tipo": "proj-residenciais",
-            "pasta": "images/projetos/ED. RESIDENCIAL. BOM SUCESSO/",
-            "imagens": [{
-                "src": "1.jpg",
-                "legenda": "Modelo 3D"
-            }, {
-                "src": "2.jpg",
-                "legenda": "Modelo 3D"
-            }, {
-                "src": "3.jpg",
-                "legenda": "Modelo 3D"
-            }, {
-                "src": "6.jpg",
-                "legenda": "Modelo 3D"
-            }, {
-                "src": "9.jpg",
-                "legenda": "Modelo 3D"
-            }]
-        },
-        {
             "titulo": "Projeto de interiores",
             "descricao": "Projeto de interiores residencial em Pato Branco / PR",
             "tipo": "proj-interiores",
